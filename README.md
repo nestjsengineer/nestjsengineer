@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joan
-- 👀 I’m interested in Nodejs/Nestjs, Architecture, Distributed System, Algorithms
+- 👀 I’m interested in Nodejs/Nestjs, Go, Rust, Architecture, Distributed System, Algorithms
 - 🌱 I’m currently learning Smart contracts, Blockchain
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: nguyenhoan.hut@gmail.com or https://www.linkedin.com/in/hoan-nguyen-50378068/
