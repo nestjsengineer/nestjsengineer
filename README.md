@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs/Nestjs, Go, Rust, Architecture, Distributed System, Algorithms
 - 🌱 I’m currently learning Smart contracts, Blockchain
 - 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me: nguyenhoan.hut@gmail.com or https://www.linkedin.com/in/hoan-nguyen-50378068/
+- 📫 How to reach me: https://www.linkedin.com/in/hoan-nguyen-50378068/
 
 <!---
 nestjsengineer/nestjsengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
