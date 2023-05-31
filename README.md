@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joan
+- 👋 Hi, I’m Hoan Nguyen
 - 👀 I’m interested in Nodejs/Nestjs, Go, Rust, Architecture, Distributed System, Algorithms
 - 🌱 I’m currently learning Smart contracts, Blockchain
 - 💞️ I’m looking to collaborate on new projects.
